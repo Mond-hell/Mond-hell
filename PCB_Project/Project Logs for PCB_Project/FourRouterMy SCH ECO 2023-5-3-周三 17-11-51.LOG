@@ -1,6 +1,0 @@
-Remove Pin=D3-2 From Net=LED1
-Remove Pin=D4-2 From Net=LED2
-Remove Pin=D5-2 From Net=LED3
-Remove Pin=D6-2 From Net=LED4
-Remove Pin=D9-2 From Net=LED7
-Remove Pin=D11-2 From Net=LEDUSER
