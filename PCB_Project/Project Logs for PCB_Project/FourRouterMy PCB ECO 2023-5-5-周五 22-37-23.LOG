@@ -1,0 +1,96 @@
+Change Component Footprint: Designator=P5 Old Footprint=MHDR1X4 New Footprint=HDR2.54-LI-4P
+Change Component Footprint: Designator=P4 Old Footprint=MHDR1X5 New Footprint=HDR2.54-LI-5P
+Change Component Footprint: Designator=P6 Old Footprint=MHDR2X4 New Footprint=HDR2.54-M-LS-2x4P
+Change component parameters: Designator = "C16" ("C16"); Footprint = "0603C"; UniqueID = "\FARJYMVG" ("\FARJYMVG")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = " 0.1¦ÌF ¡À10%, 2V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=FourRouterMy Member=Component C1 Cap
+Added Member To Class: ClassName=FourRouterMy Member=Component C2 1uF
+Added Member To Class: ClassName=FourRouterMy Member=Component C3 Cap
+Added Member To Class: ClassName=FourRouterMy Member=Component C4 Cap
+Added Member To Class: ClassName=FourRouterMy Member=Component C5 22uF/25V,X7R
+Added Member To Class: ClassName=FourRouterMy Member=Component C6 22uF/25V
+Added Member To Class: ClassName=FourRouterMy Member=Component C7 15pF£¬50V
+Added Member To Class: ClassName=FourRouterMy Member=Component C8 10uF/10V
+Added Member To Class: ClassName=FourRouterMy Member=Component C9 10uF/10V
+Added Member To Class: ClassName=FourRouterMy Member=Component C10 0.1uF
+Added Member To Class: ClassName=FourRouterMy Member=Component C11 0.1uF
+Added Member To Class: ClassName=FourRouterMy Member=Component C12 Cap
+Added Member To Class: ClassName=FourRouterMy Member=Component C13 Cap
+Added Member To Class: ClassName=FourRouterMy Member=Component C14 Cap
+Added Member To Class: ClassName=FourRouterMy Member=Component C15 Cap
+Added Member To Class: ClassName=FourRouterMy Member=Component C16 Cap
+Added Member To Class: ClassName=FourRouterMy Member=Component C17 Cap
+Added Member To Class: ClassName=FourRouterMy Member=Component C98 1uF
+Added Member To Class: ClassName=FourRouterMy Member=Component C99 1uF
+Added Member To Class: ClassName=FourRouterMy Member=Component D1 SS14
+Added Member To Class: ClassName=FourRouterMy Member=Component D2 LED0
+Added Member To Class: ClassName=FourRouterMy Member=Component D3 LED1
+Added Member To Class: ClassName=FourRouterMy Member=Component D4 LED2
+Added Member To Class: ClassName=FourRouterMy Member=Component D5 LED3
+Added Member To Class: ClassName=FourRouterMy Member=Component D6 LED4
+Added Member To Class: ClassName=FourRouterMy Member=Component D7 LED5
+Added Member To Class: ClassName=FourRouterMy Member=Component D8 LED6
+Added Member To Class: ClassName=FourRouterMy Member=Component D9 LED7
+Added Member To Class: ClassName=FourRouterMy Member=Component D10 LED8
+Added Member To Class: ClassName=FourRouterMy Member=Component D11 LED9
+Added Member To Class: ClassName=FourRouterMy Member=Component D12 LED10
+Added Member To Class: ClassName=FourRouterMy Member=Component K1 SW-DPST
+Added Member To Class: ClassName=FourRouterMy Member=Component L1 4.7uH,4A
+Added Member To Class: ClassName=FourRouterMy Member=Component P1 SWD
+Added Member To Class: ClassName=FourRouterMy Member=Component P2 USART
+Added Member To Class: ClassName=FourRouterMy Member=Component P3 HDR-1X2
+Added Member To Class: ClassName=FourRouterMy Member=Component P4 MHDR1X5
+Added Member To Class: ClassName=FourRouterMy Member=Component P5 MHDR1X4
+Added Member To Class: ClassName=FourRouterMy Member=Component P6 NRF24L01
+Added Member To Class: ClassName=FourRouterMy Member=Component P7 Header 3
+Added Member To Class: ClassName=FourRouterMy Member=Component P8 I2C
+Added Member To Class: ClassName=FourRouterMy Member=Component P9 Header 2
+Added Member To Class: ClassName=FourRouterMy Member=Component P10 Header 2
+Added Member To Class: ClassName=FourRouterMy Member=Component P11 Header 2
+Added Member To Class: ClassName=FourRouterMy Member=Component P12 Header 2
+Added Member To Class: ClassName=FourRouterMy Member=Component Q1 SI2302
+Added Member To Class: ClassName=FourRouterMy Member=Component Q2 SI2302
+Added Member To Class: ClassName=FourRouterMy Member=Component Q3 SI2302
+Added Member To Class: ClassName=FourRouterMy Member=Component Q4 SI2302
+Added Member To Class: ClassName=FourRouterMy Member=Component R1 100k,1%
+Added Member To Class: ClassName=FourRouterMy Member=Component R2 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R3 100k,1%
+Added Member To Class: ClassName=FourRouterMy Member=Component R4 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R5 1K
+Added Member To Class: ClassName=FourRouterMy Member=Component R6 73.2K
+Added Member To Class: ClassName=FourRouterMy Member=Component R7 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R8 10K
+Added Member To Class: ClassName=FourRouterMy Member=Component R9 100K
+Added Member To Class: ClassName=FourRouterMy Member=Component R10 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R11 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R12 0K
+Added Member To Class: ClassName=FourRouterMy Member=Component R13 0K
+Added Member To Class: ClassName=FourRouterMy Member=Component R14 10K
+Added Member To Class: ClassName=FourRouterMy Member=Component R15 10K
+Added Member To Class: ClassName=FourRouterMy Member=Component R16 10K
+Added Member To Class: ClassName=FourRouterMy Member=Component R17 10K
+Added Member To Class: ClassName=FourRouterMy Member=Component R18 2
+Added Member To Class: ClassName=FourRouterMy Member=Component R19 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R20 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R21 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R22 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R23 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R24 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R25 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R26 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R27 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component R28 Res2
+Added Member To Class: ClassName=FourRouterMy Member=Component S1 SWITCH
+Added Member To Class: ClassName=FourRouterMy Member=Component U1 STM32F103C8T6
+Added Member To Class: ClassName=FourRouterMy Member=Component U2 SX1308
+Added Member To Class: ClassName=FourRouterMy Member=Component U3 JDY-31
+Added Member To Class: ClassName=FourRouterMy Member=Component U4 HT7833
+Added Member To Class: ClassName=FourRouterMy Member=Component U5 MPU6050
+Added Member To Class: ClassName=FourRouterMy Member=Component Y1 8M
+Added Room: Name=FourRouterMy
